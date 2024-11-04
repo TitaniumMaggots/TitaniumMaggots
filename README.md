@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TitaniumMaggots
 - 👀 I’m interested in computer science and game making.
-- 🌱 I’m currently learning p5.js.
+- 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on a game project.
 - 📫 How to reach me iainishubbard@outlook.com
 - 😄 Pronouns: He/Him
